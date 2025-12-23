@@ -8,15 +8,16 @@
 
 | 总仓库数 | 分类数 | 最近更新 | 1天内活跃 | 2-7天内活跃 | 8-15天内活跃 | 16-30天内活跃 |
 | ---- | --- | ---- | ----- | ------- | -------- | --------- |
-| 0 | 1 |  | 0 (无) | 0 (无) | 0 (无) | 0 (无) |
+| 1 | 1 | 2025-12-14 | 0 (无) | 0 (无) | 1 ([fntv-electron](https://github.com/QiaoKes/fntv-electron)) | 0 (无) |
 
 ## 🐮 飞牛NAS
 
 | 仓库名称 | 描述 | 链接 | Stars | Forks | 更新时间 | 最新Release | License |
 | ---- | -- | -- | ----- | ----- | ---- | --------- | ------- |
+| [fntv-electron](https://github.com/QiaoKes/fntv-electron) | 飞牛影视PC版 electron封装 | [QiaoKes/fntv-electron](https://github.com/QiaoKes/fntv-electron) | 695 | 58 | 2025-12-14 | [v2.4.8](https://github.com/QiaoKes/fntv-electron/releases/tag/v2.4.8) | GNU General Public License v3.0 |
 
 
 ---
 
-**同步时间**: 2025-12-23 15:42:37
+**同步时间**: 2025-12-23 15:48:01
 **自动同步**: 使用GitHub Actions定期更新
