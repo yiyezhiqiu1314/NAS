@@ -8,15 +8,17 @@
 
 | Total Repos | Categories | Last Update | Active in 1d | Active in 2-7d | Active in 8-15d | Active in 16-30d |
 | ----------- | ---------- | ----------- | ------------ | -------------- | --------------- | ---------------- |
-| 0 | 1 |  | 0 (无) | 0 (无) | 0 (无) | 0 (无) |
+| 2 | 1 | 2025-12-21 | 1 ([App.Bin.note](https://github.com/FNOSP/App.Bin.note)) | 0 (无) | 1 ([fntv-electron](https://github.com/QiaoKes/fntv-electron)) | 0 (无) |
 
 ## 🐮 Flying Cow NAS
 
 | Repo Name | Description | Link | Stars | Forks | Update Time | Latest Release | License |
 | --------- | ----------- | ---- | ----- | ----- | ----------- | -------------- | ------- |
+| [fntv-electron](https://github.com/QiaoKes/fntv-electron) | Feiniu Film and Television PC version electron package | [QiaoKes/fntv-electron](https://github.com/QiaoKes/fntv-electron) | 695 | 58 | 2025-12-14 | [v2.4.8](https://github.com/QiaoKes/fntv-electron/releases/tag/v2.4.8) | GNU General Public License v3.0 |
+| [App.Bin.note](https://github.com/FNOSP/App.Bin.note) | A simple and easy-to-use Feiniu NAS note application | [FNOSP/App.Bin.note](https://github.com/FNOSP/App.Bin.note) | 3 | 0 | 2025-12-21 | [1.0.2](https://github.com/FNOSP/App.Bin.note/releases/tag/1.0.2) | No license |
 
 
 ---
 
-**Sync Time**: 2025-12-23 16:45:55
+**Sync Time**: 2025-12-23 16:57:55
 **Auto Sync**: Using GitHub Actions for regular updates

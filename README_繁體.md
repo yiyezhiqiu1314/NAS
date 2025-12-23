@@ -8,15 +8,17 @@
 
 | 總倉庫數 | 分類數 | 最近更新 | 1天內活躍 | 2-7天內活躍 | 8-15天內活躍 | 16-30天內活躍 |
 | ---- | --- | ---- | ----- | ------- | -------- | --------- |
-| 0 | 1 |  | 0 (无) | 0 (无) | 0 (无) | 0 (无) |
+| 2 | 1 | 2025-12-21 | 1 ([App.Bin.note](https://github.com/FNOSP/App.Bin.note)) | 0 (无) | 1 ([fntv-electron](https://github.com/QiaoKes/fntv-electron)) | 0 (无) |
 
 ## 🐮 飛牛NAS
 
 | 倉庫名稱 | 描述 | 連結 | Stars | Forks | 更新時間 | 最新Release | License |
 | ---- | -- | -- | ----- | ----- | ---- | --------- | ------- |
+| [fntv-electron](https://github.com/QiaoKes/fntv-electron) | 飞牛影视PC版 electron封装 | [QiaoKes/fntv-electron](https://github.com/QiaoKes/fntv-electron) | 695 | 58 | 2025-12-14 | [v2.4.8](https://github.com/QiaoKes/fntv-electron/releases/tag/v2.4.8) | GNU General Public License v3.0 |
+| [App.Bin.note](https://github.com/FNOSP/App.Bin.note) | 一款簡單好用的飛牛NAS便籤應用 | [FNOSP/App.Bin.note](https://github.com/FNOSP/App.Bin.note) | 3 | 0 | 2025-12-21 | [1.0.2](https://github.com/FNOSP/App.Bin.note/releases/tag/1.0.2) | No license |
 
 
 ---
 
-**同步時間**: 2025-12-23 16:45:55
+**同步時間**: 2025-12-23 16:57:52
 **自動同步**: 使用GitHub Actions定期更新

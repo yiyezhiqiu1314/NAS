@@ -8,15 +8,17 @@
 
 | 총 리포지토리 수 | 카테고리 수 | 최근 업데이트 | 1일 내 활성 | 2-7일 내 활성 | 8-15일 내 활성 | 16-30일 내 활성 |
 | --------- | ------ | ------- | ------- | --------- | ---------- | ----------- |
-| 0 | 1 |  | 0 (无) | 0 (无) | 0 (无) | 0 (无) |
+| 2 | 1 | 2025-12-21 | 1 ([App.Bin.note](https://github.com/FNOSP/App.Bin.note)) | 0 (无) | 1 ([fntv-electron](https://github.com/QiaoKes/fntv-electron)) | 0 (无) |
 
 ## 🐮 비행소 NAS
 
 | 리포지토리 이름 | 설명 | 링크 | Stars | Forks | 업데이트 시간 | 최신 릴리스 | 라이선스 |
 | -------- | -- | -- | ----- | ----- | ------- | ------ | ---- |
+| [fntv-electron](https://github.com/QiaoKes/fntv-electron) | Feiniu Film and Television PC 버전 전자 패키지 | [QiaoKes/fntv-electron](https://github.com/QiaoKes/fntv-electron) | 695 | 58 | 2025-12-14 | [v2.4.8](https://github.com/QiaoKes/fntv-electron/releases/tag/v2.4.8) | GNU General Public License v3.0 |
+| [App.Bin.note](https://github.com/FNOSP/App.Bin.note) | 간단하고 사용하기 쉬운 Flying Bull NAS 메모 앱 | [FNOSP/App.Bin.note](https://github.com/FNOSP/App.Bin.note) | 3 | 0 | 2025-12-21 | [1.0.2](https://github.com/FNOSP/App.Bin.note/releases/tag/1.0.2) | No license |
 
 
 ---
 
-**동기화 시간**: 2025-12-23 16:45:55
+**동기화 시간**: 2025-12-23 16:57:59
 **자동 동기화**: GitHub Actions를 사용하여 정기적으로 업데이트됩니다.
